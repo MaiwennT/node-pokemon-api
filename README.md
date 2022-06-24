@@ -1,2 +1,0 @@
-# node-pokemon-api
-hihhh 
